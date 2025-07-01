@@ -7,6 +7,11 @@ Ideal for tracking trends, identifying top segments, and supporting data-driven 
 
 ![image](https://github.com/user-attachments/assets/7615c217-5c05-4c90-a5dd-73ce88186adb)
 
+### HR Analyst for Employee Attritions
+link -> https://app.powerbi.com/groups/me/reports/9cee13e9-b95d-48a8-bea9-ef2879aae845/583e7bdbaae804beced3?experience=power-bi
+![image](https://github.com/user-attachments/assets/35ec7c86-adb7-4b77-9e4a-416bb87b5b53)
+
+
  
 # Excel Dashboards
 
