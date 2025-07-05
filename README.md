@@ -14,6 +14,10 @@ Ideal for tracking trends, identifying top segments, and supporting data-driven 
 
 ![image](https://github.com/user-attachments/assets/7615c217-5c05-4c90-a5dd-73ce88186adb)
 
+### Diwali Sales Dashboard 
+The Diwali Sales Report provides a comprehensive overview of consumer purchasing behavior during the festive season. It captures key metrics such as total revenue, product performance, customer demographics, and regional trends.
+![image](https://github.com/user-attachments/assets/60f2f9b4-59a1-4eab-a496-94752f8a3082)
+
 ### HR Analyst for Employee Attritions
 link -> https://app.powerbi.com/groups/me/reports/9cee13e9-b95d-48a8-bea9-ef2879aae845/583e7bdbaae804beced3?experience=power-bi
 ![image](https://github.com/user-attachments/assets/35ec7c86-adb7-4b77-9e4a-416bb87b5b53)
