@@ -17,6 +17,11 @@ Ideal for tracking trends, identifying top segments, and supporting data-driven 
 
 ![image](https://github.com/user-attachments/assets/7615c217-5c05-4c90-a5dd-73ce88186adb)
 
+## Applo Hospital Patients Report 
+A dyanmic power BI dashboard Visualizing Type of Diagnosis, Count of patients, Admit Days, doctor Rating, Follow up days, Avgerage Bill according to Diagnosis.
+![image](https://github.com/user-attachments/assets/0acd1ae9-efbf-45cd-ae30-fc7baf0ec44c)
+
+
 ### Diwali Sales Dashboard 
 The Diwali Sales Report provides a comprehensive overview of consumer purchasing behavior during the festive season. It captures key metrics such as total revenue, product performance, customer demographics, and regional trends.
 ![image](https://github.com/user-attachments/assets/60f2f9b4-59a1-4eab-a496-94752f8a3082)
