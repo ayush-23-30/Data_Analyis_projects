@@ -1,4 +1,5 @@
-
+## presentation 
+1. excel SQL queries -> https://docs.google.com/document/d/1rWatAGbrvtxM1cWKWbZ_e94VfDSsBW7y/edit?usp=drive_link&ouid=112793614955346087622&rtpof=true&sd=true
  # Power Bi Dashboards
  ### Credit Card Weekly Insights, Used MySQL ->
  link -> https://app.powerbi.com/groups/me/reports/59dcbcb3-4b25-41dc-ae23-9d2c24763137/5c2f397b050609e00e41?experience=power-bi
