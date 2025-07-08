@@ -38,5 +38,10 @@ link -> https://app.powerbi.com/groups/me/reports/9cee13e9-b95d-48a8-bea9-ef2879
 This Excel-based dashboard offers a clear, interactive view of sales performance across time, categories, and regions. Built for business analysts and decision-makers, it simplifies data exploration and supports strategic insights.
 ![image](https://github.com/user-attachments/assets/94979826-5c52-47eb-a170-dcf669d60134)
 
+### Cafe Sales Dashboard (Excel) 
+This dashboard is offers a clear, interactive view of Sales Weekly, Hours, Categorical . Builts for Business Analysts and decision making ,Telling us about best selling Worst Selling Items.
+![image](https://github.com/user-attachments/assets/2f2eabde-ab1d-4b6d-b3d7-1dff8cf642f4)
+
+
 
 
