@@ -9,6 +9,11 @@
  ![image](https://github.com/user-attachments/assets/390393dd-4512-4b3c-b0c7-b9693c6b4aa7)
  ![image](https://github.com/user-attachments/assets/f1281420-8353-4391-99bd-69873660eafb)
 
+### Ola June Sales Dashboard
+link -> https://app.powerbi.com/groups/me/reports/497979b6-aea6-40a7-bdf1-be838cf845e1/e87c847030781d240851?experience=power-bi
+4 silders 
+![image](https://github.com/user-attachments/assets/646defca-032f-4b50-ab87-1169b0840d7d)
+
 
  ### Delivery Company Sales - US
  A dynamic Power BI dashboard visualizing sales, profit, and quantity across regions, categories, and time.
