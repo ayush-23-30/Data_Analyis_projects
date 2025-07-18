@@ -2,6 +2,7 @@
 ## presentation 
 1. excel SQL queries -> https://docs.google.com/document/d/1rWatAGbrvtxM1cWKWbZ_e94VfDSsBW7y/edit?usp=drive_link&ouid=112793614955346087622&rtpof=true&sd=true
 2. weekly credit card insights -> https://drive.google.com/file/d/1bCMxrU1b56tiwOYLijQZ1ix7TpJxM1zs/view?usp=drive_link
+3. Retail shop Insights -> https://docs.google.com/presentation/d/1GdPo9cWaQhS4ulQx5wfAyjN2J4WgrxYW/edit?usp=sharing&ouid=101574409248671451009&rtpof=true&sd=true
  # Power Bi Dashboards
  ### Credit Card Weekly Insights, Used MySQL ->
  link -> https://app.powerbi.com/groups/me/reports/59dcbcb3-4b25-41dc-ae23-9d2c24763137/5c2f397b050609e00e41?experience=power-bi
@@ -13,6 +14,9 @@
 link -> https://app.powerbi.com/groups/me/reports/497979b6-aea6-40a7-bdf1-be838cf845e1/e87c847030781d240851?experience=power-bi
 4 silders 
 ![image](https://github.com/user-attachments/assets/646defca-032f-4b50-ab87-1169b0840d7d)
+
+### Retail Shop Analystics 
+<img width="1245" height="708" alt="image" src="https://github.com/user-attachments/assets/89e63641-c1e5-4bdb-8e0c-0b788d96f171" />
 
 
  ### Delivery Company Sales - US
